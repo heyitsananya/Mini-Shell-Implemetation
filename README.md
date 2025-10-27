@@ -24,9 +24,3 @@ This program allows users to execute both built-in and external system commands.
   - `subprocess` – System command execution  
   - `datetime` – Date and time display  
   - `getpass` – User identification  
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Mini-Shell-Implementation.git
-   cd Mini-Shell-Implementation
